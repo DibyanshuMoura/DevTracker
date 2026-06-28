@@ -1,4 +1,5 @@
 @import "tailwindcss";
 * {
   font-family: "JetBrainsMono Nerd Font", monospace;
+  color: white;
 }
